@@ -1,1 +1,5 @@
-print("kempegowda s p abcdefghijklmnopqrstuvwxyz 1234567890")
+def add(a, b):
+    return a + b
+
+def multiply(a, b):
+    return a * b
